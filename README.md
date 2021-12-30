@@ -5,7 +5,9 @@
   * **Boost C++ Libraries**
   * **Coursera - The Art of Development on Modern C++**
 - 📝 I regulary write articles on [https://vk.com/reavolt](https://vk.com/reavolt)
-- 💬 Ask me about **C/C++,Lua,SQL**, ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+- 💬 Ask me about <a href="https://github.com/search?q=user%3Reavolt+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3Reavolt+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3Reavolt+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 - 📫 How to reach me **reavolt@outlook.com**
     
 <table align="center" cellspacing="0" cellpadding="0" border="0">
